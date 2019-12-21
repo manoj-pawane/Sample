@@ -1,6 +1,5 @@
 namespace ExcelInDotNet2._0
 {
-/// testing
     internal class UserDetails
     {
         public string ID { get; internal set; }
